@@ -19,7 +19,7 @@ Pré-requisitos: Compilador de C++, como o GCC
 ## Problemas Resolvidos
 | Problema | Enunciado | Solução | Dificuldade | Autor da Resolução |
 | -- | -- | -- | -- | -- |
-| 1 | | | Difícil | Gustavo Melo |
+| 1 | [10](https://leetcode.com/problems/regular-expression-matching/description/) | [Código](https://github.com/projeto-de-algoritmos-2025/PD_LeetCode_Questions/blob/main/10-regular-expression-matching/solution.cpp) | Difícil | Gustavo Melo |
 | 2 | | | Difícil | Gustavo Melo |
 | 3 | | | Difícil | Gustavo Melo |
 | 4 | [472](https://leetcode.com/problems/concatenated-words/description/) | [Código](https://github.com/projeto-de-algoritmos-2025/PD_LeetCode_Questions/blob/main/472-concatenated-words/472.cpp) | Difícil | João Artur Leles|
