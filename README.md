@@ -27,4 +27,4 @@ Pré-requisitos: Compilador de C++, como o GCC
 | 6 | [1449](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/description/) | [Código](https://github.com/projeto-de-algoritmos-2025/PD_LeetCode_Questions/blob/main/1449-form-largest-integer-with-digits-that-add-up-to-target/1449.cpp) | Difícil | João Artur Leles|
 
 ## Vídeos de Apresentação
-- [Vídeo de apresentação]().
+- [Vídeo de apresentação](https://youtu.be/6asIp9M4pw0).
